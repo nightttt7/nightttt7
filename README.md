@@ -9,4 +9,4 @@
 - 🏹 [LinkedIn](https://www.linkedin.com/in/shiqingqi/)
 
 ### 2048 record
-<img src="https://raw.githubusercontent.com/nightttt7/nightttt7/master/2048-record.jpg" width="250">
+<img src="https://github.com/nightttt7/nightttt7/blob/master/2048.jpg?raw=true" width="250">
