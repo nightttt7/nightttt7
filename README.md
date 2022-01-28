@@ -4,7 +4,7 @@
 - 🌱 I like Quantitative Finance, Risk management and analysis, Python, Data Science, Machine learning, Web Development
 - ⚡ "Life's a struggle"
 - 🍜 "No Free Lunch"
-- 💻 [Website](https://shiqingqi.no/author/1)
+- 💻 [Blog](https://lovecatcat.com/author/1)
 - 🏹 [LinkedIn](https://www.linkedin.com/in/shiqingqi/)
 
 ### 2048 record
