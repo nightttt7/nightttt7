@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently in Credit Risk, Shopee, Singapore
 - 🌱 I like Quantitative Finance, Risk management and analysis, Python, Data Science, Machine learning, Web Development
 - ⚡ "Life's a struggle"
 - 🍜 "No Free Lunch"
