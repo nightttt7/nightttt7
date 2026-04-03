@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there
 
-- 🌱 I like 🍉
-- 🛹 "Life's a struggle"
-- 🍜 "No Free Lunch"
+- 🛹 **Life's a struggle**
+- 🍜 **No Free Lunch**
 - 💻 [Blog](https://lovecatcat.com/author/1)
 
 ### 2048 record
